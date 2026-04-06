@@ -17,9 +17,17 @@ This project presents an end-to-end **Revenue Intelligence Dashboard** built in 
 
 ## 📊 Dashboard Snapshots
 
-| Page 1 — KPI Overview | Page 2 — Weekly Trends |
-|---|---|
-| ![KPI Dashboard](screenshots/dashboard_kpi.png) | ![Trends](screenshots/trends_by_metrics.png) |
+### Page 1 — Revenue Intelligence Overview
+![KPI Dashboard](screenshots/dashboard_kpi.png)
+
+### Page 1 — KPI Cards & Property Table (Full View)
+![Revenue by Category](screenshots/revenue_by_category.png)
+
+### Page 2 — Trends by Key Metrics (RevPAR, ADR, Occupancy %)
+![Trends by Metrics](screenshots/trends_by_metrics.png)
+
+### Page 2 — Weekday vs. Weekend Performance Deep Dive
+![Weekday Weekend Table](screenshots/weekday_weekend_table.png)
 
 ---
 
@@ -227,8 +235,6 @@ This project was built to demonstrate proficiency in **end-to-end data analytics
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:youremail@email.com)
 
 ---
 
